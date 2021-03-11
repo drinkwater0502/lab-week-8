@@ -8,7 +8,7 @@
     grid-template-rows: 
         [header-start] 6rem
         [content-start] 50rem
-        [footer-start] 2rem
+        [footer-start] 5rem
         [footer-end];
     grid-template-columns: 
         [sidebar-start] 10rem
